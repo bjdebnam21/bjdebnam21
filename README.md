@@ -11,14 +11,14 @@ This repository is going to hold all of my work for class
 ## My Interests
 ### Personal Interests
 - Bible Study - Allows me to learn more about the Lord Jesus Christ so I can grow in my relationship with Him and live for Him.
-- Family - I enjoy hanging out with family and enjoying a good meal with them.
+- Family - I enjoy hanging out with family and enjoying a good meal with them. 
 - Church - Gathering with church family for corporate worship, Bible study, and outreach efforts.
 - News - I try to keep abreast of local, national and world news.
 - Travel - Countries I have visted include: several Islands in the Caribbean, Canada, UK, France, Switzerland, Czech Republic, The Netherlands, Austria, and Kenya
 
 ### Academic Interest
-- Web Technology and Programming - I have an IT background but have been away from it for a few years. So I'm trying to learn new job skills in hopes of new job opportunities.
-- LinkedIn Learning - Sites for Learning new hard and soft skills for career development
+- Web Technology and Programming - I have an IT background but have been away from it for a few years. So I'm trying to learn new job skills in hopes of new opportunities.
+- Continuing Education - Wake Tech offers many non-credit courses to learn varioius skills and technologies. I completed a Microsoft Office 365 course last year.
 
 ## Websites I Recommend  
 1. [BBN radio](https://bbnradio.org) Christian radio over the internet. Solid Bible teaching and music to encourage and uplift you.     
