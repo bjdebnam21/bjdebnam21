@@ -10,18 +10,17 @@ This repository is going to hold all of my work for class
 # About Me
 ## My Interests
 ### Personal Interests
-- Bible Study - Learning more about God as revealed in Scripture so I can grow in my relationship with Him.
--  Spending time with my family - Hanging out and enjoying a good meal.
--  Connecting with church friends through corporate worship, Bible study, and outreach efforts.
--  News - Keeping abreast of local, national and world news.
--  Travel - Places I've have visted include: Caribbean Islands, UK, France, Czech Republic, Austria,and Kenya
+- Bible Study - Allows me to learn more about the Lord Jesus Christ so I can grow in my relationship with Him and live for Him.
+- Family - I enjoy hanging out with family and enjoying a good meal with them.
+- Church - Gathering with church family for corporate worship, Bible study, and outreach efforts.
+- News - I try to keep abreast of local, national and world news.
+- Travel - Places I've have visted include: several Islands in the Caribbean, UK, France, Switzerland, Czech Republic, The Netherlands, Austria,and Kenya
 
 ### Academic Interest
 - Information Technology - Taking courses at Wake Tech or online for employment opportunities
-- LinkedIn Learning - Learn new skills for current and future employment opportunties
+- LinkedIn Learning - Learning new skills for career advancement
 
 ## Websites I Recommend  
-1. [BBN radio](https://bbnradio.org) Christian radio over the internet. Solid Bible teaching and music to encourage your heart.  
-2. [Google](https://www.google.com) Browser defaults to this site.  Useful for finding information of interest.   
-3. [WRAL.com](https://www.wral.com) Get the local news of the day for my place of residence.  
-4. [LinkedIn Learning](https://www.linkedin.com/learning) Wake Tech students can access it.  Learn news skills for employement and career development
+1. [BBN radio](https://bbnradio.org) Christian radio over the internet. Solid Bible teaching and music to encourage and uplift you.     
+2. [WRAL.com](https://www.wral.com) Get the local news of the day and weather for my place of residence, Raleigh, NC and surrounding areas.  
+3. [LinkedIn Learning](https://www.linkedin.com) It's a good site to join for posting your career accommplishments, particularly if you are looking for a new job role. This site also posts jobs and you can set alerts for job titles of interest to you.
