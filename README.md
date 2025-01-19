@@ -18,7 +18,8 @@ This repository is going to hold all of my work for class
 
 ### Academic Interest
 - Information Technology - Taking courses at Wake Tech or online for employment opportunities
-- LinkedIn Learning - Learn new skills for current and future employment opportunties  
+- LinkedIn Learning - Learn new skills for current and future employment opportunties
+ 
 ## Websites I Recommend
 
     [BBN radio](https://bbnradio.org): Christian radio over the internet. Solid Bible teaching and music to encourage your heart.  
