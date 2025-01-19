@@ -14,11 +14,13 @@ This repository is going to hold all of my work for class
 -  Spending time with my family - Hanging out and enjoying a good meal.
 -  Connecting with church friends through corporate worship, Bible study, and outreach efforts.
 -  News - Keeping abreast of local, national and world news.
--  Travel - Places I've have visted include: Caribbean Islands, UK, France, Czech Republic, Austria,and Kenya  
+-  Travel - Places I've have visted include: Caribbean Islands, UK, France, Czech Republic, Austria,and Kenya
+
 ### Academic Interest
 - Information Technology - Taking courses at Wake Tech or online for employment opportunities
 - LinkedIn Learning - Learn new skills for current and future employment opportunties  
 ## Websites I Recommend
+
     [BBN radio](https://bbnradio.org): Christian radio over the internet. Solid Bible teaching and music to encourage your heart.  
     [Google](https://www.google.com):Browser defaults to this site.  Useful for finding information of interest.   
     [WRAL.com](https://www.wral.com):Get the local news of the day for my place of residence.  
