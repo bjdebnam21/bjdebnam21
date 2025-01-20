@@ -16,11 +16,11 @@ This repository is going to hold all of my work for class
 - News - I try to keep abreast of local, national and world news.
 - Travel - Countries I have visited include: several Islands in the Caribbean, Canada, the UK, France, Switzerland, Czech Republic, The Netherlands, Austria, and Kenya
 
-### Academic Interest
+### Academic Interests
 - Web Technology and Programming - I have an IT background but have been away from it for a few years. So I'm trying to learn new job skills in hopes of new opportunities.
 - Continuing Education - Wake Tech offers many non-credit courses to learn varioius skills and technologies. I completed a Microsoft Office 365 course last year.
 
 ## Websites I Recommend  
 1. [BBN radio](https://bbnradio.org) Christian radio over the internet. Solid Bible teaching and music to encourage and uplift you.     
-3. [LinkedIn Learning](https://www.linkedin.com) It's a good site to join and post your academic/career accommplishments, particularly if you are looking for a job. You can search job postings and set alerts for job titles that interest you.
+3. [LinkedIn](https://www.linkedin.com) It's a good site to join and post your academic/career accommplishments, particularly if you are looking for a job. You can search job postings and set alerts for job titles that interest you.
 2. [WRAL.com](https://www.wral.com) Get the local news of the day and weather for my place of residence, Raleigh, NC and surrounding areas.  
