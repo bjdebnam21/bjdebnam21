@@ -1,3 +1,5 @@
+```mermaid
+
 erDiagram
     CUSTOMER || --}| PRODUCT : buys
     PRODUCT || -- || INVENTORY : has
@@ -24,6 +26,9 @@ erDiagram
         integer quantity
   }
   SALE ||--|{ PRODUCT : contains
+
+  ```
+
 
   ## Documentation
   > This diagram represents the relationships between the tables needed for the Nike Store to track products, customers, sales, and inventory.
