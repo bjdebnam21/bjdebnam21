@@ -34,7 +34,7 @@ erDiagram
   > This diagram represents the relationships between the tables needed for the Nike Store to track products, customers, sales, and inventory.
   * Customer to Product - To be an actual customer, a customer must have purchased at least one product.  Storing customer information and 
   the products they have purchased will help the store identify customer preferences and market to their customers accordingly. For example, the store may
-  send out special advertising campaign based on the customer purchases. 
+  mail out a sales advertisement to customers based on information in the sales table. 
   * Product to Inventory - Each product will be found in the inventory tables.  The products must be in the inventory table to track the amount of products available to sell. Inventory information will help the owner determine when he/she needs to buy more products.
   * Sale to Customer - Each sale is associated with a customer.
   * Sale to Product - Each sale consists of one or more products sold.
