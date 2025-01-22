@@ -2,7 +2,7 @@
 
 erDiagram
     CUSTOMER || --}| PRODUCT : buys
-    PRODUCT || -- || INVENTORY : has
+    PRODUCT || -- || INVENTORY : "is in"
     PRODUCT {
         integer productID PK
         string  productName
