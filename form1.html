@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Page Title</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <h1>About You</h1>
+    <form  id="questions" method="post"  action="">
+        <label for="name">Name: </label><input type="text" name="name" id="name"><br>
+        <label for="name">Email: </label><input type="email" name="email"><br>
+        <label for="website">Website:</label> <input type="url" id="website" name="website"><br>
+        <label for="age">Age:</label><input type="number" name="age" id="age"><br>
+        <label for="birthday">Birthday</label><input type="date" name="birthday" id="birthday"><br>
+        <label for="time">Time:</label><input type="time" name="time" id="time"> <br>
+        <label for="phone">Phone:</label><input type="tel" name="phone" id="phone"> <br>
+        <fieldset>
+            <legend>What is your favorite color?</legend>
+            <input type="radio" name="favcolor" value="blue" id="blue"><label for="blue">blue</label><br>
+            <input type="radio" name="favcolor" value="red" id="red" checked><label for="red">red</label><br>
+            <input type="radio" name="favcolor" value="green" id="green"><label for="green">green</label><br>    
+        </fieldset>
+        <fieldset>
+            <legend>What is your favorite vegetable?</legend>
+            <input type="checkbox" name="vegetable" value="carrot" id="carrot" checked><label for="carrot">carrot</label><br>
+            <input type="checkbox" name="vegetable" value="corn" id="corn"><label for="corn">corn</label><br>
+            <input type="checkbox" name="vegetable" value="broccolli" id="broccolli"><label for="broccolli">broccolli</label><br>    
+        </fieldset>
+        <label for="pizza">What is your favorite topping?</label>
+        <select name="pizza" id="pizza" multiple>      
+            <optgroup label="veggies">
+                <option value="mushroom">mushroom</option>
+                <option value="onions">onions</option>
+            </optgroup>
+            <optgroup label="meats">
+                <option value="pepperoni">pepperoni</option>
+                <option value="sausage">sausage</option>
+            </optgroup>
+
+        </select>
+        <label for="poem">Write a poem</label>
+        <textarea id="poem" name="poem"></textarea><br><br>
+        <label for="color">Color:</label>
+        <input type="color" name="color" id="color"> <br>
+        <label for="resume">Upload your resume</label>
+        <input type="file" name="resume" id="resume" accept="image"> <br><br>
+        <label for="password">Password</label>
+        <input type="password" name="password"> <br>
+        <input type="hidden" value="1234" name="tracking"> 
+        <input type="range" min="1" max="10" step="1"> <br>
+        <label for="search">Search</label>
+        <input type="search" name="search" id="search"> <br><br><br>
+        
+        <input type="reset" value="Reset"> <br>
+        <input type="button" value="Button"> <br>
+         <button type="submit">Place order</button><br>
+         <button type="reset">Reset</button> <br>
+         <input type="submit" value="Submit"> <br>
+
+         <!-- Other constructions section, select, textarea, datalist,  -->
+         <section class="extra-info">
+            <label for="extra">Anything else you want to add?</label>
+            <br>
+            <textarea id="extra" name="extra" rows="3" cols="40"></textarea>
+          </section>
+
+         <!-- submit with an image example-->
+         <!-- <input type="image" src="bird.jpg" alt="bird" width="130"> -->
+          <input type="submit" values="Send">
+    </form>
+</body>
+</html>
