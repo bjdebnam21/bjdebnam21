@@ -14,7 +14,7 @@ function fetchGradeData() {
             // Check if we're successful
             if(xhr.status !== 200) {
                 //console.error('Could not get grades. Status:', xhr.status);
-                console.error('Could not get grades. Status: ${xhr.status}');
+                console.error(`Could not get grades. Status: ${xhr.status}`);
             }
             // And then call the function to update the HTML with our data
             populateGradebook(JSON.parse(xhr.responseText));
@@ -55,6 +55,6 @@ function populateGradebook(data) {
 
 // TODO REMOVE THIS
 // Call the stubs to demonstrate the workflow
-//const gradeData = fetchGradeData();
-//populateGradebook(gradeData);
+const gradeData = fetchGradeData();
+populateGradebook(gradeData);
 //END REMOVE
